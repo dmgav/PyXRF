@@ -1651,7 +1651,7 @@ class ParamQuantitativeAnalysis:
 
         -- ``data_name`` is not in the list ``name_not_scalable``.
 
-        -- ``data_name`` represents an emission line for which quanitative calibration is available
+        -- ``data_name`` represents an emission line for which quantitative calibration is available
            in one of the entries.
 
         -- scaler name specified the selected quantitative calibration entry is available
